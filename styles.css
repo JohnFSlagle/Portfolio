@@ -1,0 +1,174 @@
+body {
+  background-color: rgb(33, 18, 40);
+}
+
+.section1 {
+  background-color: rgb(32, 12, 32);
+  margin-bottom: 0%;
+}
+.name {
+  display: inline;
+  color: white;
+  top: 30px;
+  padding-right: 0;
+  font-family: cursive;
+  font-size: 30px;
+  text-shadow: 2px 2px 4px rgb(205, 194, 194);
+}
+
+.nav {
+  position: absolute;
+  display: inline;
+  right: 10px;
+  top: 20px;
+  margin-top: 0px;
+  color: whitesmoke;
+  font-family: cursive;
+  font-size: 30px;
+  text-shadow: 2px 2px 4px rgb(205, 194, 194);
+}
+
+a {
+  color: white;
+}
+
+.pic1 {
+  float: right;
+  width: 700px;
+  margin-right: 0px;
+  box-shadow: 4px 4px 6px rgb(205, 194, 194);
+  transition: 1s ease;
+}
+
+.pic1:hover {
+  -webkit-transform: scale(1.1);
+  -ms-transform: scale(1.1);
+  transform: scale(1.1);
+  transition: 0.5s ease;
+  box-shadow: 8px 8px 12px rgb(205, 194, 194);
+}
+
+.who {
+  position: relative;
+  font-family: cursive;
+  font-size: 80px;
+  color: white;
+  margin-top: 0;
+  text-align: center;
+  text-shadow: 2px 2px 4px rgb(205, 194, 194);
+}
+
+.email {
+  position: relative;
+  float: bottom;
+  color: white;
+  left: 10px;
+  bottom: 5px;
+  text-shadow: 1px 1px 2px rgb(205, 194, 194);
+  margin-bottom: 0px;
+  font-size: 40px;
+}
+
+.summary {
+  position: relative;
+  float: left;
+  display: inline;
+  font-size: 50px;
+  color: aliceblue;
+  background-color: rgb(32, 12, 32);
+  text-shadow: 2px 2px 4px rgb(205, 194, 194);
+}
+
+.section2 {
+  background-color: rgb(32, 12, 32);
+}
+
+.div1 {
+  border-image-repeat: repeat;
+}
+
+.section3 {
+  background-color: rgb(32, 12, 32);
+}
+
+.nav:hover {
+  box-shadow: 4px 4px 6px rgb(205, 194, 194);
+}
+
+.email:hover {
+  box-shadow: 2px 2px 4px rgb(205, 194, 194);
+}
+
+.section5 {
+  color: white;
+  margin-top: 150px;
+  font-family: cursive;
+  font-size: 30px;
+  text-shadow: 2px 2px 4px rgb(205, 194, 194);
+  background-color: rgb(33, 18, 40);
+}
+
+.section6 {
+  color: white;
+  margin-top: 100px;
+  font-family: cursive;
+  font-size: 30px;
+  text-shadow: 2px 2px 4px rgb(205, 194, 194);
+  background-color: rgb(33, 18, 40);
+}
+
+.section7 {
+  color: white;
+  margin-top: 60px;
+  font-family: cursive;
+  font-size: 30px;
+  text-shadow: 2px 2px 4px rgb(205, 194, 194);
+  background-color: rgb(33, 18, 40);
+}
+
+.contactinfo {
+  margin-top: 3%;
+}
+
+.phonenumber {
+  margin-left: 60%;
+  transition: text-shadow 0.5s ease; /* Smooth transition */
+}
+
+.phonenumber:hover {
+  box-shadow: 2px 2px 4px rgb(205, 194, 194);
+}
+
+.email2 {
+    transition: text-shadow 0.5s ease; /* Smooth transition */
+}
+
+.email2:hover {
+  box-shadow: 2px 2px 4px rgb(205, 194, 194);
+}
+
+.pic2 {
+  box-shadow: 4px 4px 6px rgb(205, 194, 194);
+  transition: 1s ease;
+}
+
+.pic2:hover {
+  -webkit-transform: scale(1.1);
+  -ms-transform: scale(1.1);
+  transform: scale(1.05);
+  transition: 0.5s ease;
+  box-shadow: 8px 8px 12px rgb(205, 194, 194);
+}
+
+.pic3 {
+  box-shadow: 4px 4px 6px rgb(205, 194, 194);
+  transition: 1s ease;
+}
+
+.pic3:hover {
+  -webkit-transform: scale(1.1);
+  -ms-transform: scale(1.1);
+  transform: scale(1.05);
+  transition: 0.5s ease;
+  box-shadow: 8px 8px 12px rgb(205, 194, 194);
+}
